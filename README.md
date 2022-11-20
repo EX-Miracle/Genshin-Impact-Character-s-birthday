@@ -1,4 +1,4 @@
-# Genshin-Impact-Character-s-birthday
+# 原神角色生日
 
 1月09日 托马  
 1月18 迪奥娜  
